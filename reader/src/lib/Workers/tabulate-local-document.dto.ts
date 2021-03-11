@@ -1,0 +1,1 @@
+export type TabulateLocalDocumentDto = { trieWords: string[], src: string, label: string };

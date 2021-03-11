@@ -1,0 +1,2 @@
+declare module 'shutterstock-api'
+
